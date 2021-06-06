@@ -1,0 +1,6 @@
+venv
+.env.dev
+static
+media
+.idea
+__pycache__
